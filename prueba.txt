@@ -1,1 +1,2 @@
 Querido diriario, estoy usando git.
+Hoy estoy aprendiendo algo nuevo
